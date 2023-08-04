@@ -4,6 +4,7 @@
 # install
 
 Clone repository and make a link
+```chmod o+x /path/to/check_nrpe```
 ```ln -s /path/to/check_nrpe /usr/lib/nagios/plugins/check_nrpe```
 ```apt-get install smartmontools nvme```
 
